@@ -116,6 +116,11 @@
         1. Serverless (FaaS and BaaS)
 1. **Identity service providers (e.g. social logins, Azure Active Directory, Cognito, Cas, Okta etc.)**
 1. **Monitoring solutions (e.g. Application insights, Elastic Stack, Prometheus)**
+1. Principles of blockchain
+      * Hashing, Merkle tree, consensus, proof-of-stake, proof-of-work, scripts etc
+1. Principles of Artificial Intelligence
+      * Concepts of classification, supervised/unsupervised learning, crossvalidation, decision tree, random forest, Bayes theorem, neural networks, feature engineering.
+  
 
 ## **Legal and Compliance**
 1. International/government rules and legal issues that can affect applications' architecture
